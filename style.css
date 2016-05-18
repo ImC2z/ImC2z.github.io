@@ -1,0 +1,201 @@
+#logo {
+	color: #FFFF00;
+	background-color: #1F1F1F;
+	border: 5px solid #000000;
+	font-family: 'Magneto';
+	font-size: 35px;
+	height: 45px;
+	width: 290px;
+	text-align: center;
+	margin-bottom: 10px;
+	}
+#navbar {
+	background-color: #C3F0FF;
+	height: 50px;
+	width: auto;
+	padding-left: 15px;
+	padding-right: 15px;
+	}
+.navbar-item {
+	text-align: center;
+	color: #111111;
+	float: left;
+	height: 36px;
+	width: 120px;
+	font-size: 17px;
+	font-family: Impact;
+	padding-top: 14px;
+	padding-right: 15px;
+	padding-left: 15px;
+	letter-spacing: 3px;
+	}
+.navbar-item:hover {
+	background-color: #B3E0FF;
+	}
+body {
+	position: relative;
+	display: inline;
+	background-image: url("http://aion.mx/wp-content/uploads/2011/01/filosof%C3%ADa-techno.gif");
+	background-size: cover;
+	}
+#welcome {
+	color: #FFFF00;
+	font-family: Magneto;
+	padding-left: 20px;
+	}
+h2 {
+	color: #FFFFFF;
+	padding-left: 50px;
+	font-family: Magneto;
+	font-size: 35px;
+	}
+h3 {
+	color: #FFFFFF;
+	font-family: Calibri;
+	font-size: 30px;
+	}
+.index-p {
+	color: #FFFF00;
+	font-size: 20px;
+	font-family: Magneto;
+	width: 450px;
+	padding-left: 40px;
+	}
+.active-nav {
+	text-align: center;
+	color: #FFFFFF;
+	float: left;
+	height: 36px;
+	width: 120px;
+	font-size: 17px;
+	font-family: Impact;
+	padding-top: 14px;
+	padding-right: 15px;
+	padding-left: 15px;
+	letter-spacing: 3px;
+	background-color: #A3D0FF;
+	cursor: pointer;
+	}
+#intro {
+	display: block;
+	height: 500px;
+	width: 550px;
+	}
+#updates-con {
+	height: 500px;
+	width: 700px;
+	float: right;
+	display: inline-block;
+	border: 6px solid #111111;
+	background-color: #222222;
+	overflow: auto;
+	}
+#updates {
+	color: #FFFF00;
+	font-family: Magneto;
+	margin-top: -3px;
+	margin-left: 3px;
+	}
+.logs {
+	margin-left: -20px;
+	width: 450px;
+	color: #FFFF00;
+	font-family: Magneto;
+	margin-left: 10px;
+	}
+#html-sidebar {
+	width: 400px;
+	display: inline-block;
+	}
+#js-sidebar {
+	width: 400px;
+	display: inline-block;
+	}
+.html-img {
+	width: 300px;
+	height: 150px;
+	margin-left: 45px;
+	}
+.js-img {
+	width: 200px;
+	height: 200px;
+	padding-left: 70px;
+	}
+#html-p {
+	font-family: Magneto;
+	font-size: 25px;
+	color: #FFFFFF;
+	margin-left: 30px;
+	width: 350px;
+	}
+#js-p {
+	font-family: Magneto;
+	font-size: 25px;
+	color: #FFFFFF;
+	margin-left: 30px;
+	width: 350px;	
+	}
+#html-con {
+	display: inline-block;
+	height: 500px;
+	width: 700px;
+	color: #FFFFFF;
+	font-family: Calibri;
+	overflow: auto;
+	float: right;
+	}
+#js-con {
+	display: inline-block;
+	height: 500px;
+	width: 700px;
+	color: #FFFFFF;
+	font-family: Calibri;
+	overflow: auto;
+	float: right;	
+	}
+.js-context {
+	font-size: 20px;
+	padding-right: 30px;	
+	}
+.html-context {
+	font-size: 20px;
+	padding-right: 30px;
+	}
+.span-html {
+	font-family: Magneto;
+	}
+.navbar-ext {
+	width: auto;
+	height: 50px;
+	background-color: #A3D0FF;
+	padding-left: 15px;
+	}
+.navbar-ext-item {
+	text-align: center;
+	color: #111111;
+	float: left;
+	height: 36px;
+	width: 120px;
+	font-size: 17px;
+	font-family: Impact;
+	padding-top: 14px;
+	padding-right: 15px;
+	padding-left: 15px;
+	letter-spacing: 3px;
+	}
+.navbar-ext-item:hover {
+	color: #FFFFFF;
+	}
+.active-ext-item {
+	text-align: center;
+	color: #FFFFFF;
+	float: left;
+	height: 36px;
+	width: 120px;
+	font-size: 17px;
+	font-family: Impact;
+	padding-top: 14px;
+	padding-right: 15px;
+	padding-left: 15px;
+	letter-spacing: 3px;
+	}
